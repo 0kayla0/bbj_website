@@ -1,4 +1,3 @@
-
 Web security team demo website
 
 Purpose of website is to provide a sample html security header template that can be tested
